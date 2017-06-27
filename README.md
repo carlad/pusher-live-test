@@ -18,4 +18,4 @@ test < 200 job matrix
 
 test log deletion
 
-yml-checker
+yml-checkerCHECKER
