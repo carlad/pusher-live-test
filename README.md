@@ -20,4 +20,6 @@ test log deletion
 
 yml-checkerCHECKER
 
+
+test
 test
