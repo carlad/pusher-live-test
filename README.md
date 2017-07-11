@@ -9,7 +9,6 @@ another staging test
 
 teeeeeeest
 
-more testing staging.
 
 build on staging
 
