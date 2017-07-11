@@ -20,5 +20,3 @@ test log deletion
 
 yml-checkerCHECKER
 
-
-aiusduh
