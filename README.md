@@ -5,10 +5,7 @@ creating a commit for a pul request
 emojis in commit message!
 
 
-another staging test
-
-teeeeeeest
-Xxzczxc
+another staging tes
 
 build on staging
 
