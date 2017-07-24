@@ -1,21 +1,21 @@
-language: RUBY
+dist: trusty
 sudo: false
 
-script:
- - sleep 3
- 
-# notifications:
-  #webhooks:
-   #urls:
-    # - http://mockbin.org/bin/c5724ab6-e3dc-4b35-b839-b9b3bf2b21df
-  # on_canceled: always # default: always
-  # on_errored: always # default: always
- 
-# notifications:
-#  email:
-#   recipients:
-#    - carladrago@gmail.com
-#   on_success: always
- 
- 
-##################
+notifications:
+  email: false
+
+jobs:
+  include:
+    - script: false
+      dist: trusty
+      rvm: 2.3
+      stage: one
+    - script: true
+      dist: trusty
+      rvm: 2.4
+      stage: one
+    - script: true
+      dist: trusty
+      stage: two
+  allow_failures:
+    - rvm: 2.3
