@@ -1,5 +1,10 @@
 language: RUBY
 
+rvm:
+  - 1.9.3
+  - 2.0.0
+  - 2.2
+
 matrix:
  include:
   - sudo: required
