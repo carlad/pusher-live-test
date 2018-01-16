@@ -1,6 +1,6 @@
 jobs:
   include:
     - stage: one
-      script: false
+      script: true
       dist: trusty
       rvm: 2.3
