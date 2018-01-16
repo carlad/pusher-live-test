@@ -4,13 +4,3 @@ jobs:
       script: false
       dist: trusty
       rvm: 2.3
-    - stage: two
-      script: true
-      dist: trusty
-      rvm: 2.4
-    - stage: three
-      script: true
-      dist: precise
-      rvm: 2.4
-  allow_failures:
-    - rvm: 2.3
