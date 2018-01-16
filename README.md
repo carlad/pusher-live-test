@@ -19,6 +19,5 @@ yml-checkerCHECKER
 sdfsdfsdf
 zxczxczxzccx
 aisjdshkajska PARSE TIME
-
-zczxchd
+p
 zxcxzzxcz
