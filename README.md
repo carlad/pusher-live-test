@@ -17,6 +17,3 @@ test log deletionzxuiosadasdjashkdahskd
 yml-checkerCHECKER
 bzxcxzzxcz
 nother build
-
-and another
-asdfdsa
