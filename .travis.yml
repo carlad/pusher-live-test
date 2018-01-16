@@ -1,9 +1,6 @@
 dist: trusty
 sudo: false
 
-notifications:
-  email: false
-
 jobs:
   include:
     - script: false
