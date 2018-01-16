@@ -1,6 +1,3 @@
-dist: trusty
-sudo: false
-
 jobs:
   include:
     - script: false
