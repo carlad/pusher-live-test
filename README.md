@@ -14,7 +14,6 @@ test < 200 job matrix
 
 test log deletionzxuiosadasdjashkdahskd
 
-yml-checkerCHECKER
 
 sdfsdfsdf
 zxczxczxzccx
