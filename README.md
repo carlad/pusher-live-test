@@ -13,7 +13,3 @@ another build on stagingzxczx
 test < 200 job matrix
 
 test log deletionzxuiosadasdjashkdahskd
-
-yml-checkerCHECKER
-bzxcxzzxcz
-nother build
