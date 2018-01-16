@@ -1,6 +1,8 @@
+language: ruby
+
 jobs:
   include:
     - stage: one
       script: true
       dist: trusty
-      rvm: 2.3
+      
