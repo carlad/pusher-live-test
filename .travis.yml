@@ -12,7 +12,6 @@ env:
   - ISOLATED=false
   
 matrix:
-  include:
-  - rvm: ruby-head
-    gemfile: gemfiles/Gemfile.rails-3.2.x
-    env: ISOLATED=false
+ - rvm: ruby-head
+   gemfile: gemfiles/Gemfile.rails-3.2.x
+   env: ISOLATED=false
