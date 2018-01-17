@@ -3,6 +3,4 @@ matrix:
   - 2.0.0
   - 2.2
   - ruby-head
-  - jruby
-  - rbx-3
-  - ree
+ 
