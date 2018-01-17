@@ -7,7 +7,6 @@ emojis in commit message!
 
 another staging tes
 
-build on staging
 
 another build on stagingzxczx
 test < 200 job matrix
