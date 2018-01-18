@@ -14,4 +14,4 @@ more testing staging.
 
 minimal?
 build on staging
-;oidsf
+trigger
